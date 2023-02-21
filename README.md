@@ -1,0 +1,2 @@
+# ChiikawaBot
+ちいかわ公式Twitterが更新された際にLINEで通知するプログラム
